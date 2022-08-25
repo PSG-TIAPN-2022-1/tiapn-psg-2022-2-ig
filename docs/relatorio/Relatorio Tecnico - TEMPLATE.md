@@ -11,9 +11,9 @@ Todos os documentos de um negócio ficaram em nossos servidores, vinculados a pe
 ## Participantes
 
 Os membros do grupo são:
-Davi Perrier Cabral
-Douglas Barbosa da Silva 
-Gabriel Gomes de Oliveira 
+- Davi Perrier Cabral
+- Douglas Barbosa da Silva 
+> Gabriel Gomes de Oliveira 
 
 # Estrutura do Documento
 

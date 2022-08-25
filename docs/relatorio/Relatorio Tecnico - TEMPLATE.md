@@ -13,7 +13,7 @@ Todos os documentos de um negócio ficaram em nossos servidores, vinculados a pe
 Os membros do grupo são:
 - Davi Perrier Cabral
 - Douglas Barbosa da Silva 
-> Gabriel Gomes de Oliveira 
+- Gabriel Gomes de Oliveira 
 
 # Estrutura do Documento
 

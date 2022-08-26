@@ -171,6 +171,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Adicionar escritório               | Incluir responsável p/ adicionar usuários   |
 |Usuário             | Adiciono permissões                | Realizarem suas atividades             |
 
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |`## MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+
 <!-- > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
 > ferramenta poderosa para a compreensão e elicitação dos requisitos

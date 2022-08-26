@@ -172,8 +172,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário             | Adiciono permissões                | Realizarem suas atividades             |
 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |`## MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
+|`O que é?`| `O que ouve?` |`O que pensa e sente`|`O que ela faz`|
+|--------------------|------------------------------------|----------------------------------------|----------------------------------------|
+|Usuário             | Adiciono permissões                | Realizarem suas atividades             | Realizarem suas atividades             |
+|--------------------|------------------------------------|----------------------------------------|----------------------------------------|
+|`Quais são as necessidades?`| `Quais são as dores?` |
 
 <!-- > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma

@@ -176,7 +176,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 ## Mapa da empatia
 
 
-|`O que vê?`| `O que ouve?` |`O que pensa e sente`|`O que ela faz`|
+|`O que vê?`| `O que ouve?` |`O que pensa e sente?`|`O que ela faz?`|
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
 |Impressões desnecessárias             | Perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitliação            | Se importa com o ambiente de rabalho.             |
 |                                      |                                                       | Precisa se posicionar quanto as mudanças do mercado             | Valoriza o meio ambiente.             |

@@ -95,9 +95,9 @@ nosso sistema mais auto-sustentável.
 
 
 #### Diana Alves
-34 anos
-Dona de um escritório  de advocacia
-Graduado em Direito
+34 anos/ 
+Dona de um escritório  de advocacia/ 
+Graduado em Direito/ 
 Casada
 
 Objetivo:
@@ -135,7 +135,7 @@ tornando o processo mais barato, por não demandar de impressão dos documentos 
 
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
+<!-- > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
 > personalizada todos os principais envolvidos com a solução almeja. 
 > 
@@ -155,7 +155,7 @@ tornando o processo mais barato, por não demandar de impressão dos documentos 
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)
 > 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/) -->
 
 
 ## Histórias de Usuários
@@ -171,7 +171,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Adicionar escritório               | Incluir responsável p/ adicionar usuários   |
 |Usuário             | Adiciono permissões                | Realizarem suas atividades             |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
+<!-- > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
 > ferramenta poderosa para a compreensão e elicitação dos requisitos
 > funcionais e não funcionais da sua aplicação. Se possível, agrupe as
@@ -180,7 +180,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac) -->
 
 ## Requisitos
 

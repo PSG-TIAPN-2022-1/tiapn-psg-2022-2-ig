@@ -172,11 +172,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário             | Adiciono permissões                | Realizarem suas atividades             |
 
 
-|`O que é?`| `O que ouve?` |`O que pensa e sente`|`O que ela faz`|
+|`O que vê?`| `O que ouve?` |`O que pensa e sente`|`O que ela faz`|
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
-|Usuário             | Adiciono permissões                | Realizarem suas atividades             | Realizarem suas atividades             |
+|pilhas de papeis para serem organizados manualmente, impressões desnecessárias sendo realizadas a todo momento.|Precisa gerir melhor seu tempo, para poder utilizar da melhor maneira, cm família e lazer.
+|Acredita que a digitalização de processos pode rezultar em melhores desempenhos e na melhoria de posiionamento de sua empresa no mercado.|Se importa com o ambiente de rabalho.|
 
-|--------------------|------------------------------------|----------------------------------------|----------------------------------------|
+
 
 |`Quais são as necessidades?`| `Quais são as dores?` |
 |--------------------|------------------------------------|

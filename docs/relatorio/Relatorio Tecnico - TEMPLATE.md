@@ -164,11 +164,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Adicionar processo                 | Iniciar atividade                      |
+|Usuário do sistema  | Adicionar processo                 | Iniciar atividade/digitalizar processos                      |
 |Usuário do sistema  | Checagem de assinatura             | Verificar aceitação do cliente         |
 |Usuário do sistema  | Checar processos em abero          | Verificar andamento de processos       |
 |Usuário do sistema  | Assinar documento                  | Dar andamento ao meu processo          |
 |Administrador       | Adicionar escritório               | Incluir responsável p/ adicionar usuários   |
+|Usuário             | Adiciono permissões                | Realizarem suas atividades             |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma

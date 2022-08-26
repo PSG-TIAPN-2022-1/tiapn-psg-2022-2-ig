@@ -172,6 +172,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário             | Adiciono permissões                | Realizarem suas atividades             |
 
 
+
+## Mapa da empatia
+
+
 |`O que vê?`| `O que ouve?` |`O que pensa e sente`|`O que ela faz`|
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
 |Impressões desnecessárias             | Perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitliação            | Se importa com o ambiente de rabalho.             |
@@ -180,12 +184,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 
 
-
 |`Quais são as dores?`| `Quais são as necessidades?` |
 |------------------------------------|------------------------------------|
 |Diminuir sobrecarga de atividades|Facilitar o processo de assinatura|
 |Melhorar velocidade dos processos|Gestão de seus documentos|
-|Diminuir burocracia|------------------------------------|
+|Diminuir burocracia|               |
 
 <!-- > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma

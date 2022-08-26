@@ -93,11 +93,6 @@ nosso sistema mais auto-sustentável.
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-#### Público-alvo:
-Pessoas entre 27 e 45 anos que sejam formadas em direito e estejam interessados em baratear e tornar seus processos mais organizados.
-
 #### Diana Alves
 34 anos
 Dona de um escritório  de advocacia
@@ -174,8 +169,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Adicionar processo                 | Iniciar atividade                      |
+|Usuário do sistema  | Checagem de assinatura             | Verificar aceitação do cliente         |
+|Usuário do sistema  | Checar processos em abero          | Verificar andamento de processos       |
+|Usuário do sistema  | Assinar documento                  | Dar andamento ao meu processo          |
+|Usuário do sistema  | Digitalizar processos              | Diminuir arquivos físicos existentes   |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma

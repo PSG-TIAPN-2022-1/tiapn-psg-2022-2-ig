@@ -174,15 +174,18 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |`O que vê?`| `O que ouve?` |`O que pensa e sente`|`O que ela faz`|
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
-|Impressões desnecessárias             | perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitliação            | Se importa com o ambiente de rabalho.             |
-|                                      |                                                       | Precisa se posicionar quanto as mudanças do mercado             | valoriza o meio ambiente.             |
+|Impressões desnecessárias             | Perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitliação            | Se importa com o ambiente de rabalho.             |
+|                                      |                                                       | Precisa se posicionar quanto as mudanças do mercado             | Valoriza o meio ambiente.             |
 |                  |                  | Precisa se posicionar quanto as mudanças do mercado             | Depende de uma apresentaçao visal para que sua postura seja representada.|
 
 
 
 
-|`Quais são as necessidades?`| `Quais são as dores?` |
-|--------------------|------------------------------------|
+|`Quais são as dores?`| `Quais são as necessidades?` |
+|------------------------------------|------------------------------------|
+|Diminuir sobrecarga de atividades|Facilitar o processo de assinatura|
+|Melhorar velocidade dos processos|Gestão de seus documentos|
+|Diminuir burocracia|------------------------------------|
 
 <!-- > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma

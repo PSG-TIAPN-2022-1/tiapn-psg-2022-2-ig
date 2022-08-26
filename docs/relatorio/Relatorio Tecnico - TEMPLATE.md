@@ -95,6 +95,49 @@ nosso sistema mais auto-sustentável.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+#### Público-alvo:
+Pessoas entre 27 e 45 anos que sejam formadas em direito e estejam interessados em baratear e tornar seus processos mais organizados.
+
+#### Diana Alves
+34 anos
+Dona de um escritório  de advocacia
+Graduado em Direito
+Casada
+
+Objetivo:
+Agilizar processos de assinatura de documentos e simultaniamente digitalizar processos, fazndo com que seu escritório seja mais ágil, tornndo os processos menos tediosos para os funcionários e facilitar para os clientes a assinatura do documento, sem fazêlos se locomoverem aé o local .
+
+Desafios:
+Processos que dependem de impressão e de movimentação do cliente para serem assinados.
+
+Muios processos em papel, necessitando de inventário.
+
+Necessidade de registro de assinauras em cartório.
+
+Como posso ajuda-la:
+
+Não havendo a necessidade de impressão e inventário
+Facilitando a assinatura de documentos, para o cliente, pois ele não terá que se locomover até o local e não terá que possuir firma registrada em cartório.
+
+
+--------------------------------------------
+
+#### Renan Carlos
+23 anos
+Recem formado atuando individualmente
+Grauado em direito
+Solteiro
+
+Objetivos:
+Gerenciar de maneira fácil e de baixo custo as assinaturas de seus clentes e seus documentos.
+
+Desafios:
+Possivel dificuldade de aderência dos clientes
+
+Como posso ajudá-lo
+tornando o processo mais barato, por não demandar de impressão dos documentos e não dependendo de seu cliente ter que registrar firma ou se locomover até o mesmo, para assinar o documeno.
+
+
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma

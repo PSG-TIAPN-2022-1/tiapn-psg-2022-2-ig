@@ -175,7 +175,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |`O que é?`| `O que ouve?` |`O que pensa e sente`|`O que ela faz`|
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
 |Usuário             | Adiciono permissões                | Realizarem suas atividades             | Realizarem suas atividades             |
-|--------------------|------------------------------------|----------------------------------------|----------------------------------------|
 |`Quais são as necessidades?`| `Quais são as dores?` |
 
 <!-- > Apresente aqui as histórias de usuário que são relevantes para o

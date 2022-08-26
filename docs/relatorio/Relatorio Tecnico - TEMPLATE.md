@@ -100,14 +100,19 @@ Pessoas entre 27 e 45 anos que sejam formadas em direito e estejam interessados 
 
 #### Diana Alves
 34 anos
+
 Dona de um escritório  de advocacia
+
 Graduado em Direito
+
 Casada
 
 Objetivo:
+
 Agilizar processos de assinatura de documentos e simultaniamente digitalizar processos, fazndo com que seu escritório seja mais ágil, tornndo os processos menos tediosos para os funcionários e facilitar para os clientes a assinatura do documento, sem fazêlos se locomoverem aé o local .
 
 Desafios:
+
 Processos que dependem de impressão e de movimentação do cliente para serem assinados.
 
 Muios processos em papel, necessitando de inventário.
@@ -117,6 +122,7 @@ Necessidade de registro de assinauras em cartório.
 Como posso ajuda-la:
 
 Não havendo a necessidade de impressão e inventário
+
 Facilitando a assinatura de documentos, para o cliente, pois ele não terá que se locomover até o local e não terá que possuir firma registrada em cartório.
 
 
@@ -124,17 +130,23 @@ Facilitando a assinatura de documentos, para o cliente, pois ele não terá que 
 
 #### Renan Carlos
 23 anos
+
 Recem formado atuando individualmente
+
 Grauado em direito
+
 Solteiro
 
 Objetivos:
+
 Gerenciar de maneira fácil e de baixo custo as assinaturas de seus clentes e seus documentos.
 
 Desafios:
+
 Possivel dificuldade de aderência dos clientes
 
-Como posso ajudá-lo
+Como posso ajudá-lo:
+
 tornando o processo mais barato, por não demandar de impressão dos documentos e não dependendo de seu cliente ter que registrar firma ou se locomover até o mesmo, para assinar o documeno.
 
 

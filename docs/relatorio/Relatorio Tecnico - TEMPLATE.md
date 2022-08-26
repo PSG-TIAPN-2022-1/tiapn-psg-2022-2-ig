@@ -93,6 +93,7 @@ nosso sistema mais auto-sustentável.
 
 ## Personas e Mapas de Empatia
 
+
 #### Diana Alves
 34 anos
 Dona de um escritório  de advocacia
@@ -118,24 +119,18 @@ Facilitando a assinatura de documentos, para o cliente, pois ele não terá que 
 --------------------------------------------
 
 #### Renan Carlos
-23 anos
-
-Recem formado atuando individualmente
-
-Grauado em direito
-
+23 anos/ 
+Recem formado atuando individualmente/ 
+Grauado em direito/ 
 Solteiro
 
 Objetivos:
-
 Gerenciar de maneira fácil e de baixo custo as assinaturas de seus clentes e seus documentos.
 
 Desafios:
-
 Possivel dificuldade de aderência dos clientes
 
 Como posso ajudá-lo:
-
 tornando o processo mais barato, por não demandar de impressão dos documentos e não dependendo de seu cliente ter que registrar firma ou se locomover até o mesmo, para assinar o documeno.
 
 

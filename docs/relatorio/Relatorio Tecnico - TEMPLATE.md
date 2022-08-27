@@ -232,8 +232,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 <!-- |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | -->
 <!-- |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | -->
-<!-- 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
+<!--  > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
 >
 > - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -270,8 +269,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 <!-- |01| O projeto deverá ser entregue até o final do semestre | -- >
 <!-- |02| Não pode ser desenvolvido um módulo de backend        | -- >
-<!-- 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
+<!-- > Enumere as restrições à sua solução. Lembre-se de que as restrições
 > geralmente limitam a solução candidata.
 > 
 > **Links Úteis**:

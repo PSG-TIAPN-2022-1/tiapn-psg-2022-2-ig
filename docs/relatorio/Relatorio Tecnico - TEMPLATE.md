@@ -213,6 +213,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
+
+
+
+<!-- |RF-001| Permitir que o usuário cadastre tarefas | ALTA | -->
+<!-- |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | -->
+
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -220,6 +226,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
+
+
+
+
+<!-- |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | -->
+<!-- |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | -->
+<!-- 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
 >
@@ -240,7 +253,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 > 
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+-- >
 
 ## Restrições
 
@@ -252,13 +265,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 
+
+
+
+<!-- |01| O projeto deverá ser entregue até o final do semestre | -- >
+<!-- |02| Não pode ser desenvolvido um módulo de backend        | -- >
+<!-- 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
 > geralmente limitam a solução candidata.
 > 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+-- >
 
 # Projeto de Interface
 

@@ -162,14 +162,14 @@ tornando o processo mais barato, por não demandar de impressão dos documentos 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Adicionar processo                 | Iniciar atividade/digitalizar processos                      |
-|Usuário do sistema  | Checagem de assinatura             | Verificar aceitação do cliente         |
-|Usuário do sistema  | Checar processos em abero          | Verificar andamento de processos       |
-|Usuário do sistema  | Assinar documento                  | Dar andamento ao meu processo          |
-|Administrador       | Adicionar escritório               | Incluir responsável p/ adicionar usuários   |
-|Usuário             | Adiciono permissões                | Realizarem suas atividades             |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                    |
+|--------------------|------------------------------------|-------------------------------------------|
+|Usuário do sistema  | Adicionar processo                 | Iniciar atividade/digitalizar processos   |
+|Usuário do sistema  | Checagem de assinatura             | Verificar aceitação do cliente            |
+|Usuário do sistema  | Checar processos em aberto         | Verificar andamento de processos          |
+|Usuário do sistema  | Assinar documento                  | Dar andamento ao meu processo             |
+|Administrador       | Adicionar escritório               | Incluir responsável p/ adicionar usuários |
+|Usuário             | Adicionar permissões               | Realizarem suas atividades                |
 
 
 
@@ -178,7 +178,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |`O que vê?`| `O que ouve?` |`O que pensa e sente?`|`O que ela faz?`|
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
-|Impressões desnecessárias             | Perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitliação            | Se importa com o ambiente de rabalho.             |
+|Impressões desnecessárias             | Perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitação            | Se importa com o ambiente de rabalho.             |
 |                                      |                                                       | Precisa se posicionar quanto as mudanças do mercado             | Valoriza o meio ambiente.             |
 |                  |                  | Precisa se posicionar quanto as mudanças do mercado             | Depende de uma apresentaçao visal para que sua postura seja representada.|
 
@@ -207,28 +207,34 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
-
-
+|ID    | Descrição do Requisito                                  | Prioridade |
+|------|---------------------------------------------------------|------------|
+|RF-001| Permitir que o usuário realize cadastros                | ALTA       |
+|RF-002| Conceder atribuições de permissões                      | ALTA       | 
+|RF-003| Permitir a criação de processos e upload de documentos  | ALTA       | 
+|RF-004| Realizar a edição e exclusão de documentos              | ALTA       | 
+|RF-005| Autenticar e assinar                                    | ALTA       | 
+|RF-006| Enviar documentos e processos para assinatura           | ALTA       | 
+|RF-007| Visualizar e checar documentos assinados e autenticados | MÉDIA      |
+|RF-008| Checar processos abertos                                | MÉDIA      |
+|RF-009| Tela de pesquisa e busca de documentos                  | MÉDIA      |
+|RF-010| Notificações de processos realizados                    | MÉDIA      |
 
 <!-- |RF-001| Permitir que o usuário cadastre tarefas | ALTA | -->
 <!-- |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | -->
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-
-
-
+|ID     | Descrição do Requisito                                            |Prioridade |
+|-------|-------------------------------------------------------------------|-----------|
+|RNF-001| Acesso à política de privacidade e segurança de dados             | ALTA      | 
+|RNF-002| O sistema deve ser responsivo para rodar em dispositivos móveis   | MÉDIA     | 
+|RNF-003| O sistema deve ser multiplataforma em desktop                     | MÉDIA     | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-005| Possibilidade de criação de documntos em modo offline             | BAIXA     | 
+|RNF-006| Canal de reclamações, sugestões e ajuda sobre o sistema           | BAIXA     | 
+|RNF-007| Opções de acessibilidade para o usuário                           | BAIXA     | 
+|RNF-008| Personalização de template                                        | BAIXA     | 
 
 <!-- |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | -->
 <!-- |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | -->
@@ -258,14 +264,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-
-
+|ID| Restrição                                                            |
+|--|----------------------------------------------------------------------|
+|01| O sistema deverá ser entregue até o final do semestre                |
+|02| Necessária a conexão com a internet para o funcionamento completo    |
+|03| Hardware com configuração mínima para atender ao requisto necessário |
+|04| Aceitação dos termos de uso                                          |
 
 <!-- |01| O projeto deverá ser entregue até o final do semestre | -- >
 <!-- |02| Não pode ser desenvolvido um módulo de backend        | -- >

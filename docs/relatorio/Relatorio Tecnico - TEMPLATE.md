@@ -252,7 +252,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 > 
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
--- >
+-->
 
 ## Restrições
 
@@ -275,7 +275,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
--- >
+-->
 
 # Projeto de Interface
 

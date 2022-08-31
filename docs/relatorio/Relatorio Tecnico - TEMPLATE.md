@@ -400,38 +400,20 @@ ser o mais acessível à todos do projeto.
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para realizar o controle de versionamento de nosso projeto, utilizaremos o GIT SCM, o sistema de controle
+versões distríbuido. Ela nos permite utiliza-la para registrar histórico de edições de qualquer arquivo.
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
+-> `upstream`: origem de onde clonaremos nosso repositório.
+-> `master`: quando já houver uma versão estável já testada.
+-> `dev`: nome dado à um versionamento que está em desenvolvimento.
+-> `unstable`: uma versão do site que está instável e/ou passando por problemas será nomeada de 'unstable'.
+-> `testing`: será atribuido para quando houver projetos em fases de testes.
+-> `bugfix`: uma funcionalidade do projeto se encontra com bugs para serem corrigidos.
+-> `feature`:  necessidade de uma nova funcionalidade ser adicionada ao projeto.
+-> `enhancement`: será sinalizada 'enhancement' quando houver necessidade de uma funcionalidade ser otimizada.
+
+Sendo utilizada essas nomeclaturas, conseguiriamos dividir melhor quais funcionalidades estão subindo para aprovação,
+e quais funcionalidades necessitam de atenção. Visando assim a organização do backlog.
 
 # **############## SPRINT 1 ACABA AQUI #############**
 

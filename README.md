@@ -7,7 +7,6 @@ O Assinü é uma plataforma pensada para empresas que lidam com vários document
 * Davi Perrier Cabral
 * Douglas Barbosa da Silva
 * Gabriel Gomes de Oliveira
-* Isabella Bosco Clemente
 
 ## Professores responsáveis
 

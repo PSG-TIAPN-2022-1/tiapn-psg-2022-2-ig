@@ -377,25 +377,25 @@ Para o desenvolvimento de nosso projeto será necessária a utilização de ferr
 
 **Sobre nossas ferramentas:**:
 
--> Miro: É ideal para nosso projeto, pois conseguimos organizar nossas ideias em notas adesivas e desenhos,
+-> `Miro`: É ideal para nosso projeto, pois conseguimos organizar nossas ideias em notas adesivas e desenhos,
 sendo possível também a criação de quadros interativos, podendo assim nos expressarmos com mais facilidade.
 
--> GitHub: Por se tratar de trabalho em equipe, a plataforma em questão é a mais completa e indicada para 
+-> `GitHub`: Por se tratar de trabalho em equipe, a plataforma em questão é a mais completa e indicada para 
 esses trabalhos. 
 
--> GoDaddy: Dêmos preferência ao uso da hospedagem da empresa GoDaddy, o motivo é ser completa para tudo
+-> `GoDaddy`: Dêmos preferência ao uso da hospedagem da empresa GoDaddy, o motivo é ser completa para tudo
 que utilizaremos ao decorrer da Assinü, além de possuir segurança extra em relação à outras hospedagens.
 
--> Figma: O site em questão está sendo utilizado por ser mais fácil de acessar, e também possuir todas as
+-> `Figma`: O site em questão está sendo utilizado por ser mais fácil de acessar, e também possuir todas as
 ferramentas que buscamos ao esboçar interfaces para a plataforma.
 
--> VSCode: O principal editor de códigos do Mundo, pontuamos ele pois o mesmo possui Plugins que nos facilita
+-> `VSCode`: O principal editor de códigos do Mundo, pontuamos ele pois o mesmo possui Plugins que nos facilita
 o trabalho em equipe e live-share.
 
--> Teams: Foi escolhida como plataforma de comunicação oficial, por ter tudo que buscamos ao realizar uma reunião:
+-> `Teams`: Foi escolhida como plataforma de comunicação oficial, por ter tudo que buscamos ao realizar uma reunião:
 leveza, compartilhamento de tela e canais de texto.
 
--> draw.io: Utilizamos o draw.io pois é o site mais completo e indicado para criação de diagramas UML, além de
+-> `draw.io`: Utilizamos o draw.io pois é o site mais completo e indicado para criação de diagramas UML, além de
 ser o mais acessível à todos do projeto.
 
 ## Controle de Versão
@@ -404,13 +404,21 @@ Para realizar o controle de versionamento de nosso projeto, utilizaremos o GIT S
 versões distríbuido. Ela nos permite utiliza-la para registrar histórico de edições de qualquer arquivo.
 
 -> `upstream`: origem de onde clonaremos nosso repositório.
+
 -> `master`: quando já houver uma versão estável já testada.
+
 -> `dev`: nome dado à um versionamento que está em desenvolvimento.
+
 -> `unstable`: uma versão do site que está instável e/ou passando por problemas será nomeada de 'unstable'.
+
 -> `testing`: será atribuido para quando houver projetos em fases de testes.
+
 -> `bugfix`: uma funcionalidade do projeto se encontra com bugs para serem corrigidos.
+
 -> `feature`:  necessidade de uma nova funcionalidade ser adicionada ao projeto.
+
 -> `enhancement`: será sinalizada 'enhancement' quando houver necessidade de uma funcionalidade ser otimizada.
+
 
 Sendo utilizada essas nomeclaturas, conseguiriamos dividir melhor quais funcionalidades estão subindo para aprovação,
 e quais funcionalidades necessitam de atenção. Visando assim a organização do backlog.

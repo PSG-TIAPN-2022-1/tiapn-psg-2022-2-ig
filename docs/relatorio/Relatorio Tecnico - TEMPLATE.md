@@ -362,37 +362,41 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+Para o desenvolvimento de nosso projeto será necessária a utilização de ferramentas, sendo elas: 
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Processo de Design Thinking  | Miro |  [https://miro.com/] | 
+|Repositório de código | GitHub | [https://github.com/PSG-TIAPN-2022-1/tiapn-psg-2022-2-ig/] | 
+|Hospedagem do site | GoDaddy |  [https://assinu.tk/] | 
+|Protótipo Interativo | Figma | [https://figma.com/file/jzqi5eonEbbj7VJvSlaquD/] | 
+|Editor de código | VSCode | [https://code.visualstudio.com/] | 
+|Ferramenta de comunicação | Teams | [https://www.microsoft.com/pt-br/microsoft-teams/] | 
+|Ferramenta de diagramação | draw.io | [https://app.diagrams.net/] | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
+**Sobre nossas ferramentas:**:
+
+-> Miro: É ideal para nosso projeto, pois conseguimos organizar nossas ideias em notas adesivas e desenhos,
+sendo possível também a criação de quadros interativos, podendo assim nos expressarmos com mais facilidade.
+
+-> GitHub: Por se tratar de trabalho em equipe, a plataforma em questão é a mais completa e indicada para 
+esses trabalhos. 
+
+-> GoDaddy: Dêmos preferência ao uso da hospedagem da empresa GoDaddy, o motivo é ser completa para tudo
+que utilizaremos ao decorrer da Assinü, além de possuir segurança extra em relação à outras hospedagens.
+
+-> Figma: O site em questão está sendo utilizado por ser mais fácil de acessar, e também possuir todas as
+ferramentas que buscamos ao esboçar interfaces para a plataforma.
+
+-> VSCode: O principal editor de códigos do Mundo, pontuamos ele pois o mesmo possui Plugins que nos facilita
+o trabalho em equipe e live-share.
+
+-> Teams: Foi escolhida como plataforma de comunicação oficial, por ter tudo que buscamos ao realizar uma reunião:
+leveza, compartilhamento de tela e canais de texto.
+
+-> draw.io: Utilizamos o draw.io pois é o site mais completo e indicado para criação de diagramas UML, além de
+ser o mais acessível à todos do projeto.
 
 ## Controle de Versão
 

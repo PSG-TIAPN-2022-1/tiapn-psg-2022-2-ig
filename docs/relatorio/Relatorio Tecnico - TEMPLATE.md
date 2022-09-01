@@ -1,12 +1,13 @@
 # Informações do Projeto
+
 `Assinü - Gestão de Documentos`  
 
-O Assinü é uma plataforma pensada para empresas que lidam com vários documentos e processos. Dentro da plataforma você podera autenticar, enviar, editar documentos de forma compartilhada, etc. 
-Todos os documentos de um negócio ficaram em nossos servidores, vinculados a perfis de usuário empresa ou pessoa jurídica.
+O Assinü é uma plataforma pensada para empresas que lidam com vários documentos e processos. Dentro da plataforma você poderá autenticar, enviar, editar documentos de forma compartilhada, etc. Todos os documentos de um negócio ficaram em nossos servidores, vinculados a perfis de usuário empresa ou pessoa jurídica.
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
+Projeto desenvolvido para a disciplina de Trabalho Interdisciplinar: Aplicações para Processos de Negócios do curso de Sistemas de Informaação da Pontifícia Universidade Católica de Minas Gerais.
 
 ## Participantes
 
@@ -49,35 +50,23 @@ Os membros do grupo são:
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
-
 # Introdução
 
 ## Problema
 
-Nosso sistema será voltado para empresas e pessoas jurídicas que trabalham com inúmeros documentos, 
-o que na maioria das vezes se torna algo díficil de gerenciar. Foi pensado também em um grande facilitador:
-assinaturas digitais. Muitos negócios sofrem para autenticar cópias e contratos enviados para clientes, com isso,
-ofereceremos para um sistema de assinaturas digitais, com validade.
+Nosso sistema será voltado para empresas e pessoas jurídicas que trabalham com inúmeros documentos, o que na maioria das vezes se torna algo difícil de gerenciar. Foi pensado também em um grande facilitador: assinaturas digitais. Muitos negócios sofrem para autenticar cópias e contratos enviados para clientes, com isso, ofereceremos para um sistema de assinaturas digitais, com validade.
 
 ## Objetivos
 
-O nosso objetivo com esse projeto, como dito acima, é ser um grande facilitador para as pessoas citadas. 
-Sendo possível analisar, criar e validar essas documentações. Com o sistema, conseguiremos abolir o uso
-de milhares de pápeis em gavetas, várias pastas em um único computador para processos, documentos perdidos, etc.
-
+O nosso objetivo com esse projeto, como dito acima, é ser um grande facilitador para as pessoas citadas. Sendo possível analisar, criar e validar essas documentações. Com o sistema, conseguiremos abolir o uso de milhares de papéis em gavetas, várias pastas em um único computador para processos, documentos perdidos, etc.
 
 ## Justificativa
 
-O que nos impulsinou a idealizar esse sistema foi entender o quão difícil é gerenciar documentos em larga escala,
-sendo até não ser possível de cuidar tantos processos, documentos e até mesmo validações. Sendo assim, para quem
-pretende mudar a esfera de sua empresa ou negócio, esse é o sistema ideal.
+O que impulsionou a idealizar esse sistema foi entender o quão difícil é gerenciar documentos em larga escala, sendo até não ser possível de cuidar tantos processos, documentos e até mesmo validações. Sendo assim, para quem pretende mudar a esfera de sua empresa ou negócio, esse é o sistema ideal.
 
 ## Público-Alvo
 
-O público que escalonaremos é o que tem algum laço com escritórios de advocacia e/ou pessoas jurídicas que precisam
-validar contratos Freelancer, entre outros. Não atingindo um único gênero, pois ela torna-se uma plataforma aberto à todos.
-Acreditamos que o público será constituido de sua maioria de potenciais secretários, que trabalham digitalizando documentos 
-e até mesmo advogados.
+O público que escalonaremos é o que tem algum laço com escritórios de advocacia e/ou pessoas jurídicas que precisam validar contratos Freelancer, entre outros. Não atingindo um único gênero, pois ela torna-se uma plataforma aberto a todos. Acreditamos que o público será constituído de sua maioria de potenciais secretários, que trabalham digitalizando documentos e até mesmo advogados.
  
 # Especificações do Projeto
 
@@ -88,52 +77,46 @@ JavaScript
 HTML5/CSS
 MYSQL
 
-Com essas linguagens, nos possibilita criar nossa própria ferramenta de trabalho, o que tornaria 
-nosso sistema mais auto-sustentável.
+Com essas linguagens, nos possibilita criar nossa própria ferramenta de trabalho, o que tornaria nosso sistema mais autossustentável.
 
 ## Personas e Mapas de Empatia
 
-
 #### Diana Alves
 34 anos/ 
-Dona de um escritório  de advocacia/ 
+Dona de um escritório de advocacia/ 
 Graduado em Direito/ 
 Casada
 
 Objetivo:
-Agilizar processos de assinatura de documentos e simultaniamente digitalizar processos, fazndo com que seu escritório seja mais ágil, tornndo os processos menos tediosos para os
-funcionários e facilitar para os clientes a assinatura do documento, sem fazêlos se locomoverem aé o local .
+Agilizar processos de assinatura de documentos e simultaneamente digitalizar processos, fazendo com que seu escritório seja mais ágil, tornando os processos menos tediosos para os funcionários e facilitar para os clientes a assinatura do documento, sem fazê-los se locomoverem até o local.
 
 Desafios:
 Processos que dependem de impressão e de movimentação do cliente para serem assinados.
 
-Muios processos em papel, necessitando de inventário.
+Muitos processos em papel, necessitando de inventário.
 
-Necessidade de registro de assinauras em cartório.
+Necessidade de registro de assinaturas em cartório.
 
 Como posso ajuda-la:
 Não havendo a necessidade de impressão e inventário
 Facilitando a assinatura de documentos, para o cliente, pois ele não terá que se locomover até o local e não terá que possuir firma registrada em cartório.
 
-
 --------------------------------------------
 
 #### Renan Carlos
 23 anos/ 
-Recem formado atuando individualmente/ 
-Grauado em direito/ 
+Recém formado atuando individualmente/ 
+Graduado em direito/ 
 Solteiro
 
 Objetivos:
-Gerenciar de maneira fácil e de baixo custo as assinaturas de seus clentes e seus documentos.
+Gerenciar de maneira fácil e de baixo custo as assinaturas de seus clientes e seus documentos.
 
 Desafios:
-Possivel dificuldade de aderência dos clientes
+Possível dificuldade de aderência dos clientes
 
 Como posso ajudá-lo:
-tornando o processo mais barato, por não demandar de impressão dos documentos e não dependendo de seu cliente ter que registrar firma ou se locomover até o mesmo, para assinar o documeno.
-
-
+tornando o processo mais barato, por não demandar de impressão dos documentos e não dependendo de seu cliente ter que registrar firma ou se locomover até o mesmo, para assinar o documento.
 
 <!-- > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
@@ -149,8 +132,7 @@ tornando o processo mais barato, por não demandar de impressão dos documentos 
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
+> > 
 > **Exemplo de Persona**
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)

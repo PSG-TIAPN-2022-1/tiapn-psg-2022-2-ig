@@ -52,6 +52,8 @@ Os membros do grupo são:
 
 # Introdução
 
+O sistema visa resolver demandas e carências observadas no setor, a seguir descreveremos os principais pontos do projeto.
+
 ## Problema
 
 Nosso sistema será voltado para empresas e pessoas jurídicas que trabalham com inúmeros documentos, o que na maioria das vezes se torna algo difícil de gerenciar. Foi pensado também em um grande facilitador: assinaturas digitais. Muitos negócios sofrem para autenticar cópias e contratos enviados para clientes, com isso, ofereceremos para um sistema de assinaturas digitais, com validade.
@@ -71,15 +73,18 @@ O público que escalonaremos é o que tem algum laço com escritórios de advoca
 # Especificações do Projeto
 
 Utilizaremos para o desenvolvimento desse projeto as seguintes técnicas de programação:
-PHP
-ReactJs
-JavaScript
-HTML5/CSS
-MYSQL
+
+- PHP
+- ReactJs
+- JavaScript
+- HTML5/CSS
+- MYSQL
 
 Com essas linguagens, nos possibilita criar nossa própria ferramenta de trabalho, o que tornaria nosso sistema mais autossustentável.
 
 ## Personas e Mapas de Empatia
+
+Exemplos de duas personas relacionadas ao escopo de utilização.
 
 #### Diana Alves
 34 anos/ 
@@ -92,9 +97,7 @@ Agilizar processos de assinatura de documentos e simultaneamente digitalizar pro
 
 Desafios:
 Processos que dependem de impressão e de movimentação do cliente para serem assinados.
-
 Muitos processos em papel, necessitando de inventário.
-
 Necessidade de registro de assinaturas em cartório.
 
 Como posso ajuda-la:
@@ -139,7 +142,6 @@ tornando o processo mais barato, por não demandar de impressão dos documentos 
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/) -->
 
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -153,18 +155,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Adicionar escritório               | Incluir responsável p/ adicionar usuários |
 |Usuário             | Adicionar permissões               | Realizarem suas atividades                |
 
-
-
 ## Mapa da empatia
-
 
 |`O que vê?`| `O que ouve?` |`O que pensa e sente?`|`O que ela faz?`|
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|
-|Impressões desnecessárias             | Perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitação            | Se importa com o ambiente de rabalho.             |
+|Impressões desnecessárias             | Perda de tempo com processos arcaicos.                | Melhoria de desempenho com digitação            | Se importa com o ambiente de trabalho.             |
 |                                      |                                                       | Precisa se posicionar quanto as mudanças do mercado             | Valoriza o meio ambiente.             |
-|                  |                  | Precisa se posicionar quanto as mudanças do mercado             | Depende de uma apresentaçao visal para que sua postura seja representada.|
-
-
+|                  |                  | Precisa se posicionar quanto as mudanças do mercado             | Depende de uma apresentaçao visual para que sua postura seja representada.|
 
 |`Quais são as dores?`| `Quais são as necessidades?` |
 |------------------------------------|------------------------------------|
@@ -213,7 +210,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O sistema deve ser responsivo para rodar em dispositivos móveis   | MÉDIA     | 
 |RNF-003| O sistema deve ser multiplataforma em desktop                     | MÉDIA     | 
 |RNF-004| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-|RNF-005| Possibilidade de criação de documntos em modo offline             | BAIXA     | 
+|RNF-005| Possibilidade de criação de documentos em modo offline             | BAIXA     | 
 |RNF-006| Canal de reclamações, sugestões e ajuda sobre o sistema           | BAIXA     | 
 |RNF-007| Opções de acessibilidade para o usuário                           | BAIXA     | 
 |RNF-008| Personalização de template                                        | BAIXA     | 
@@ -250,7 +247,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|----------------------------------------------------------------------|
 |01| O sistema deverá ser entregue até o final do semestre                |
 |02| Necessária a conexão com a internet para o funcionamento completo    |
-|03| Hardware com configuração mínima para atender ao requisto necessário |
+|03| Hardware com configuração mínima para atender ao requisito necessário |
 |04| Aceitação dos termos de uso                                          |
 
 <!-- |01| O projeto deverá ser entregue até o final do semestre | -- >
@@ -274,13 +271,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > ![Interfaces](images/flux-ti.png) 
 
-
-
 ## User Flow
 
-<!-- ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ...... -->
-
-<!-- > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
+<!-- ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
 > para alinhar os caminhos e as possíveis ações que o usuário pode
 > fazer junto com os membros de sua equipe.
@@ -295,7 +289,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > ![Exemplo de UserFlow](images/userflow.jpg) -->
 > ![UserFlow1](images/userflow-1.jpg) 
 > ![UserFlow2](images/userflow-2.jpg) 
-
 
 ## Wireframes
 
@@ -326,7 +319,7 @@ O projeto será desenvolvido utilizando-se da metodologia ágil, para uma implem
 
 - Estrutura: criaremos fluxos de valor, de maneira a dar um sentido mais organizacional nas entregas e no reporte de resultados.
 
-- Time Ágil: identificamos em nosso time a missão do mesmo para conseguirmos potencializar a entrega de valor. Sendo também definido o papel de cada um dentro do time, assim como as ferramentos que utilizaremos no desenvolvimento do projeto.
+- Time Ágil: identificamos em nosso time a missão do mesmo para conseguirmos potencializar a entrega de valor. Sendo também definido o papel de cada um dentro do time, assim como as ferramentas que utilizaremos no desenvolvimento do projeto.
 
 - Backbone: verificaremos possíveis melhorias e avanços necessários no que diz respeito à tecnologia ou funções da equipe, com intuito de obter êxito na aplicação da metodologia ágil.
 
@@ -334,7 +327,7 @@ O projeto será desenvolvido utilizando-se da metodologia ágil, para uma implem
 
 - Planejamento do Sprint: o projeto seguirá o planejamento de sprints solicitados pela disciplina de Trabalho Interdisciplinar, com divisão de tarefas e contribuições necessários entre a equipe.
 
-- Daily Scrum: será definido o melhor horário para a aplicação deste valiosos recurso da metodologia ágil. Atendendo às perguntas chaves 'O que você fez ONTEM para ajudar a equipe para concluir o objetivo do Sprint?', 'O que você vai fazer HOJE para ajudar a equipe para concluir o objetivo do Sprint?' e 'Existe algum IMPEDIMENTO para a equipe concluir o objetivo do Sprint?'.
+- Daily Scrum: será definido o melhor horário para a aplicação destes valiosos recursos da metodologia ágil. Atendendo às perguntas chaves 'O que você fez ONTEM para ajudar a equipe para concluir o objetivo do Sprint?', 'O que você vai fazer HOJE para ajudar a equipe para concluir o objetivo do Sprint?' e 'Existe algum IMPEDIMENTO para a equipe concluir o objetivo do Sprint?'.
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -393,34 +386,25 @@ Para o desenvolvimento de nosso projeto será necessária a utilização de ferr
 |Ferramenta de comunicação | Teams | [https://www.microsoft.com/pt-br/microsoft-teams/] | 
 |Ferramenta de diagramação | draw.io | [https://app.diagrams.net/] | 
 
-
 **Sobre nossas ferramentas:**:
 
--> `Miro`: É ideal para nosso projeto, pois conseguimos organizar nossas ideias em notas adesivas e desenhos,
-sendo possível também a criação de quadros interativos, podendo assim nos expressarmos com mais facilidade.
+-> `Miro`: É ideal para nosso projeto, pois conseguimos organizar nossas ideias em notas adesivas e desenhos, sendo possível também a criação de quadros interativos, podendo assim nos expressarmos com mais facilidade.
 
--> `GitHub`: Por se tratar de trabalho em equipe, a plataforma em questão é a mais completa e indicada para 
-esses trabalhos. 
+-> `GitHub`: Por se tratar de trabalho em equipe, a plataforma em questão é a mais completa e indicada para esses trabalhos. 
 
--> `GoDaddy`: Dêmos preferência ao uso da hospedagem da empresa GoDaddy, o motivo é ser completa para tudo
-que utilizaremos ao decorrer da Assinü, além de possuir segurança extra em relação à outras hospedagens.
+-> `GoDaddy`: Dêmos preferência ao uso da hospedagem da empresa GoDaddy, o motivo é ser completa para tudo que utilizaremos ao decorrer da Assinü, além de possuir segurança extra em relação à outras hospedagens.
 
--> `Figma`: O site em questão está sendo utilizado por ser mais fácil de acessar, e também possuir todas as
-ferramentas que buscamos ao esboçar interfaces para a plataforma.
+-> `Figma`: O site em questão está sendo utilizado por ser mais fácil de acessar, e também possuir todas as ferramentas que buscamos ao esboçar interfaces para a plataforma.
 
--> `VSCode`: O principal editor de códigos do Mundo, pontuamos ele pois o mesmo possui Plugins que nos facilita
-o trabalho em equipe e live-share.
+-> `VSCode`: O principal editor de códigos do Mundo, pontuamos ele pois o mesmo possui Plugins que nos facilita o trabalho em equipe e live-share.
 
--> `Teams`: Foi escolhida como plataforma de comunicação oficial, por ter tudo que buscamos ao realizar uma reunião:
-leveza, compartilhamento de tela e canais de texto.
+-> `Teams`: Foi escolhida como plataforma de comunicação oficial, por ter tudo que buscamos ao realizar uma reunião: leveza, compartilhamento de tela e canais de texto.
 
--> `draw.io`: Utilizamos o draw.io pois é o site mais completo e indicado para criação de diagramas UML, além de
-ser o mais acessível à todos do projeto.
+-> `draw.io`: Utilizamos o draw.io pois é o site mais completo e indicado para criação de diagramas UML, além de ser o mais acessível à todos do projeto.
 
 ## Controle de Versão
 
-Para realizar o controle de versionamento de nosso projeto, utilizaremos o GIT SCM, o sistema de controle
-versões distríbuido. Ela nos permite utiliza-la para registrar histórico de edições de qualquer arquivo.
+Para realizar o controle de versionamento de nosso projeto, utilizaremos o GIT SCM, o sistema de controle de versões distribuído. Ela nos permite utiliza-la para registrar histórico de edições de qualquer arquivo.
 
 -> `upstream`: origem de onde clonaremos nosso repositório.
 
@@ -430,7 +414,7 @@ versões distríbuido. Ela nos permite utiliza-la para registrar histórico de e
 
 -> `unstable`: uma versão do site que está instável e/ou passando por problemas será nomeada de 'unstable'.
 
--> `testing`: será atribuido para quando houver projetos em fases de testes.
+-> `testing`: será atribuído para quando houver projetos em fases de testes.
 
 -> `bugfix`: uma funcionalidade do projeto se encontra com bugs para serem corrigidos.
 
@@ -438,8 +422,7 @@ versões distríbuido. Ela nos permite utiliza-la para registrar histórico de e
 
 -> `enhancement`: será sinalizada 'enhancement' quando houver necessidade de uma funcionalidade ser otimizada.
 
-
-Sendo utilizada essas nomeclaturas, conseguiriamos dividir melhor quais funcionalidades estão subindo para aprovação,
+Sendo utilizada essas nomenclaturas, conseguiríamos dividir melhor quais funcionalidades estão subindo para aprovação,
 e quais funcionalidades necessitam de atenção. Visando assim a organização do backlog.
 
 # **############## SPRINT 1 ACABA AQUI #############**

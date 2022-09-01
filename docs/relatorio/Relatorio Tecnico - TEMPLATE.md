@@ -283,16 +283,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
 > funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+> Projeto](#especificações-do-projeto). -->
+
+> ![Interfaces](images/Frame 1flux ti.png) 
+
+
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+<!-- ......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ...... -->
 
 <!-- > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -307,13 +311,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > **Exemplo**:
 > 
 > ![Exemplo de UserFlow](images/userflow.jpg) -->
-> ![UserFlow](images/userflow-1.jpg) 
-> (images/userflow-2.jpg) 
+> ![UserFlow1](images/userflow-1.png) 
+> ![UserFlow2](images/userflow-2.png) 
 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+<!-- ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -328,8 +332,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Exemplo de Wireframe](images/wireframe-example.png) -->
 
+> ![Wireframe](images/wireframe.png) 
 
 # Metodologia
 

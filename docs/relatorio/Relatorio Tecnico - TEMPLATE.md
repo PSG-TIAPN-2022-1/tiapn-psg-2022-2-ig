@@ -290,7 +290,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > funcionais e histórias de usuário abordados nas [Especificações do
 > Projeto](#especificações-do-projeto). -->
 
-> ![Interfaces](images/Frame 1flux ti.png) 
+> ![Interfaces](images/flux-ti.png) 
 
 
 
@@ -311,8 +311,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > **Exemplo**:
 > 
 > ![Exemplo de UserFlow](images/userflow.jpg) -->
-> ![UserFlow1](images/userflow-1.png) 
-> ![UserFlow2](images/userflow-2.png) 
+> ![UserFlow1](images/userflow-1.jpg) 
+> ![UserFlow2](images/userflow-2.jpg) 
 
 
 ## Wireframes

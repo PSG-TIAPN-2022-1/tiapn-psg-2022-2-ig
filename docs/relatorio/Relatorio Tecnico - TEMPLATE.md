@@ -331,7 +331,23 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto será desenvolvido utilizando-se da metodologia ágil, para uma implementação fácil desta metodologia, utilizaremos os seguintes passos:
+
+- Valor: identificamos os setores e fluxos de trabalho para criar valor para o projeto; mapearemos processos que poderão se beneficiar de maior dinamismo e agilidade dentro desses pontos.
+
+- Estrutura: criaremos fluxos de valor, de maneira a dar um sentido mais organizacional nas entregas e no reporte de resultados.
+
+- Time Ágil: identificamos em nosso time a missão do mesmo para conseguirmos potencializar a entrega de valor. Sendo também definido o papel de cada um dentro do time, assim como as ferramentos que utilizaremos no desenvolvimento do projeto.
+
+- Backbone: verificaremos possíveis melhorias e avanços necessários no que diz respeito à tecnologia ou funções da equipe, com intuito de obter êxito na aplicação da metodologia ágil.
+
+- Roadmap de implementação: ao concluirmos todos esses pontos, definiremos o roadmap de implementação.
+
+- Planejamento do Sprint: o projeto seguirá o planejamento de sprints solicitados pela disciplina de Trabalho Interdisciplinar, com divisão de tarefas e contribuições necessários entre a equipe.
+
+- Daily Scrum: será definido o melhor horário para a aplicação deste valiosos recurso da metodologia ágil. Atendendo às perguntas chaves 'O que você fez ONTEM para ajudar a equipe para concluir o objetivo do Sprint?', 'O que você vai fazer HOJE para ajudar a equipe para concluir o objetivo do Sprint?' e 'Existe algum IMPEDIMENTO para a equipe concluir o objetivo do Sprint?'.
+
+<!-- ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -348,17 +364,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
 > - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
+-->
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Davi Perrier Cabral.
+Product Owner e Full Stack Developer.
+
+- Gabriel Gomes de Oliveira.
+DBA, Back-end Developer e Designer Gráfico.
+
+Scrum Master, Front-end Developer.
+- Douglas Barbosa da Silva.
+
+<!-- ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+-->
 
 ## Ferramentas
 

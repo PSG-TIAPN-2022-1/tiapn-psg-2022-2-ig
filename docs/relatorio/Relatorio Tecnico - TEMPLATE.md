@@ -368,14 +368,18 @@ O projeto será desenvolvido utilizando-se da metodologia ágil, para uma implem
 
 ## Divisão de Papéis
 
-- Davi Perrier Cabral.
-Product Owner e Full Stack Developer.
+Davi Perrier Cabral.
+- Product Owner;
+- Full Stack Developer.
 
-- Gabriel Gomes de Oliveira.
-DBA, Back-end Developer e Designer Gráfico.
+Gabriel Gomes de Oliveira.
+- DBA;
+- Back-end Developer;
+- Designer Gráfico.
 
-Scrum Master, Front-end Developer.
-- Douglas Barbosa da Silva.
+Douglas Barbosa da Silva.
+- Scrum Master;
+- Front-end Developer.
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ......
 

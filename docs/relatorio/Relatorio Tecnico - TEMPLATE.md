@@ -41,9 +41,9 @@ Os membros do grupo são:
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
-- [Modelagem do processo de negócio](#Modelagem do processo de negócio)
-  - [Análise da situação atual](#análise-da-situação-atual)
-  - [Descrição dos processos aprimorados](#descrição-dos-processos-aprimorados)
+- [Modelagem do Processo de Negócio](#Modelagem-do-processo-de-negócio)
+  - [Análise da Situação Atual](#análise-da-situação-atual)
+  - [Descrição dos Processos Aprimorados](#descrição-dos-processos-aprimorados)
 - [**############## SPRINT 2 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -431,15 +431,15 @@ e quais funcionalidades necessitam de atenção. Visando assim a organização d
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
-# Modelagem do processo de negócio
+# Modelagem do Processo de Negócio
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-## Análise da situação atual
+## Análise da Situação Atual
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-## Descrição dos processos aprimorados
+## Descrição dos Processos Aprimorados
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 

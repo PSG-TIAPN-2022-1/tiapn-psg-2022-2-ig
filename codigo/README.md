@@ -11,6 +11,10 @@ https://assinu.tk/
 ## Acesso ao Domínio
 
 Nome de usuário do FTP: assinu@assinu.tk
+
 Servidor FTP: ftp.grupofidelizar.com
+
 FTP & porta FTPS explícita:  21
+
 Senha: x!qO4J&_Ak!e
+

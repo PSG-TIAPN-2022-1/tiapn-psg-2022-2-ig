@@ -439,6 +439,8 @@ e quais funcionalidades necessitam de atenção. Visando assim a organização d
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+![Fluxograma](images/fluxograma.png) 
+
 ## Descrição dos Processos Aprimorados
 
 ......  COLOQUE AQUI O SEU TEXTO ......

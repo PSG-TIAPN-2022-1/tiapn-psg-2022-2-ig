@@ -427,6 +427,13 @@ e quais funcionalidades necessitam de atenção. Visando assim a organização d
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
+# Modelagem do processo de negócio
+
+## Análise da situação atual
+
+## Descrição dos processos aprimorados
+
+# **############## SPRINT 2 ACABA AQUI #############**
 
 # Projeto da Solução
 

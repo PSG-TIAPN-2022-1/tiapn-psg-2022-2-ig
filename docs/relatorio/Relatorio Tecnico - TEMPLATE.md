@@ -433,13 +433,15 @@ e quais funcionalidades necessitam de atenção. Visando assim a organização d
 
 # Modelagem do Processo de Negócio
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
+
+Este é o fluxograma da modelagem do processo de negócio, ele explica o cadastro de um documentto no sistema, assim como a assinatura, as notificações e validações que são feitas em todo o processo, ele mostra como o sistema faz a intermediação entre as partes envolvidas no negócio.  
+
+![Fluxograma](images/fluxograma.png) 
 
 ## Análise da Situação Atual
 
 ......  COLOQUE AQUI O SEU TEXTO ......
-
-![Fluxograma](images/fluxograma.png) 
 
 ## Descrição dos Processos Aprimorados
 

@@ -441,7 +441,12 @@ Este é o fluxograma da modelagem do processo de negócio, ele explica o cadastr
 
 ## Análise da Situação Atual
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A nossa equipe, após pontuar problemas e oportunidades do negócio, se encontra bem posicionada quanto aos próximos passos.
+Nosso principal objetivo hoje é organizar todos os níveis de processos de negócios, pensamento em uma cultura estratégica e planejada.
+Contudo, nosso ambiente, com o estudo necessário, evitaremos cometer erros futuros de planejamento, evitando que posteriormente partes interessadas 
+(nossos potenciais clientes) não nos tragam rejeição.
+Concluindo que nosso projeto segue bem gerenciado e estudado para dar os próximos passos de desenvolvimento.
+
 
 ## Descrição dos Processos Aprimorados
 

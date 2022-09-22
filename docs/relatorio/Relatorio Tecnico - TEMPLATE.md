@@ -429,28 +429,46 @@ Para realizar o controle de versionamento de nosso projeto, utilizaremos o GIT S
 Sendo utilizada essas nomenclaturas, conseguiríamos dividir melhor quais funcionalidades estão subindo para aprovação,
 e quais funcionalidades necessitam de atenção. Visando assim a organização do backlog.
 
+<!-- Partindo deste ponto de vista, temos a seguinte perspectiva:
+
+-> Tempo médio de atendimento: 
+
+-> Percentual de falhas/êxitos:
+
+-> Executado em relação ao planejado:
+
+-> Percentual de atendimentos dentro do prazo:
+
+-> Índice de satisfação:
+
+-> Índice de rotatividade: 
+
+-> Tempo médio de aquisição: -->
+
 # **############## SPRINT 1 ACABA AQUI #############**
 
 # Modelagem do Processo de Negócio
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-Este é o fluxograma da modelagem do processo de negócio, ele explica o cadastro de um documentto no sistema, assim como a assinatura, as notificações e validações que são feitas em todo o processo, ele mostra como o sistema faz a intermediação entre as partes envolvidas no negócio.  
-
-![Fluxograma](images/fluxograma.png) 
+Nesta fase mosraremos o levantamento de informações sobre os processos, o desenho dos fluxogramas, que seria o mapeamento propriamente dito, e a definição dos indicadores. O desenho do fluxo permite o devido conhecimento das atividades englobadas pelo processo, com suas devidas interações.
 
 ## Análise da Situação Atual
 
-A nossa equipe, após pontuar problemas e oportunidades do negócio, se encontra bem posicionada quanto aos próximos passos.
-Nosso principal objetivo hoje é organizar todos os níveis de processos de negócios, pensamento em uma cultura estratégica e planejada.
-Contudo, nosso ambiente, com o estudo necessário, evitaremos cometer erros futuros de planejamento, evitando que posteriormente partes interessadas 
-(nossos potenciais clientes) não nos tragam rejeição.
-Concluindo que nosso projeto segue bem gerenciado e estudado para dar os próximos passos de desenvolvimento.
+É de suma importância o estabelecimento de indicadores para monitorar o desempenho dos processos, pois o uso de dados mensurados reforça o caráter da impessoalidade e do profissionalismo, além de influenciar a cultura do resultado e do mérito.
 
+Sobre a equipe, após pontuar problemas e oportunidades do negócio, se encontra bem posicionada quanto aos próximos passos.
+Nosso principal objetivo hoje é organizar todos os níveis de processos de negócios, pensamento em uma cultura estratégica e planejada.
+Contudo, nosso ambiente, com o estudo necessário, evitaremos cometer erros futuros de planejamento, evitando que posteriormente partes interessadas (nossos potenciais clientes) não nos tragam rejeição.
+Concluindo que nosso projeto segue bem gerenciado e estudado para dar os próximos passos de desenvolvimento.
 
 ## Descrição dos Processos Aprimorados
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
+
+Este é o fluxograma da modelagem do processo de negócio, ele explica o cadastro de um documentto no sistema, assim como a assinatura, as notificações e validações que são feitas em todo o processo, ele mostra como o sistema faz a intermediação entre as partes envolvidas no negócio.  
+
+![Fluxograma](images/fluxograma.png)
 
 # **############## SPRINT 2 ACABA AQUI #############**
 

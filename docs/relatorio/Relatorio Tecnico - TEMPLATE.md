@@ -475,6 +475,10 @@ Fizemos a elaboração e a gestão dos indicadores de desempenho, também chamad
 
 -> `Indicadores de turnover`: Relação entre o tempo médio de permanência de cada colaborador na empresa. O projeto está ativo há dois meses, foram quatro envolvidos, sendo que uma pessoa envolvida deixou o projeto, restando  apenas três. Cálculo do índice de turnover: (3 + 1) / 2 = 2. Taxa de turnover: 2 / 4 = 0,5 * 100 = 50%.
 
+Exemplo Turnover
+
+![Fluxograma](images/Exemplo_Turnover.png)
+
 ## Descrição dos Processos Aprimorados
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->

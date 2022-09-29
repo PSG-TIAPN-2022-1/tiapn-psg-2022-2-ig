@@ -473,11 +473,9 @@ Fizemos a elaboração e a gestão dos indicadores de desempenho, também chamad
 
 -> `Indicadores de valor`: Relação entre o valor percebido pelo cliente, portanto, o quanto ele está disposto a pagar, por exemplo, e o valor efetivamente despendido pela empresa com custos e despesas com a produção e entrega do produto. Não temos dados para o cálculo deste indicador no momento, mas será atualizado a medida que o projeto avance.
 
--> `Indicadores de turnover`: Relação entre o tempo médio de permanência de cada colaborador na empresa. O projeto está ativo há dois meses, foram quatro envolvidos, sendo que uma pessoa envolvida deixou o projeto, restando  apenas três. Cálculo do índice de turnover: (3 + 1) / 2 = 2. Taxa de turnover: 2 / 4 = 0,5 * 100 = 50%.
+-> `Indicadores de turnover`: Relação entre o tempo médio de permanência de cada colaborador na empresa. O projeto está ativo há dois meses, foram quatro envolvidos, sendo que uma pessoa envolvida deixou o projeto, restando  apenas três. Cálculo do índice de turnover: (3 + 1) / 2 = 2. Taxa de turnover: 2 / 4 = 0,5 * 100 = 50%. A seguir é possível verificar o exemplo de cálculo do índice e da taxa de Turnover:
 
-Exemplo Turnover
-
-![Fluxograma](images/Exemplo_Turnover.png)
+![Exemplo_Turnover](images/Exemplo_Turnover.png)
 
 ## Descrição dos Processos Aprimorados
 

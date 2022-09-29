@@ -470,6 +470,8 @@ Este é o fluxograma da modelagem do processo de negócio, ele explica o cadastr
 
 ![Fluxograma](images/fluxograma.png)
 
+![Fluxograma](images/Fluxograma Assinu Atual.png)
+
 # **############## SPRINT 2 ACABA AQUI #############**
 
 # Projeto da Solução

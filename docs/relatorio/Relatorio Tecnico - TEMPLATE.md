@@ -430,19 +430,12 @@ Sendo utilizada essas nomenclaturas, conseguiríamos dividir melhor quais funcio
 e quais funcionalidades necessitam de atenção. Visando assim a organização do backlog.
 
 <!-- Partindo deste ponto de vista, temos a seguinte perspectiva:
-
--> Tempo médio de atendimento: 
-
+-> Tempo médio de atendimento:
 -> Percentual de falhas/êxitos:
-
 -> Executado em relação ao planejado:
-
 -> Percentual de atendimentos dentro do prazo:
-
 -> Índice de satisfação:
-
 -> Índice de rotatividade: 
-
 -> Tempo médio de aquisição: -->
 
 # **############## SPRINT 1 ACABA AQUI #############**
@@ -451,16 +444,36 @@ e quais funcionalidades necessitam de atenção. Visando assim a organização d
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-Nesta fase mosraremos o levantamento de informações sobre os processos, o desenho dos fluxogramas, que seria o mapeamento propriamente dito, e a definição dos indicadores. O desenho do fluxo permite o devido conhecimento das atividades englobadas pelo processo, com suas devidas interações.
+Nesta fase mostraremos o levantamento de informações sobre os processos, o diagrama do fluxograma original e do fluxograma atualizado, que é o mapeamento e a modelagem propriamente dita, além de mostrarmos também a definição dos indicadores. O desenho do fluxo permite o devido conhecimento das atividades englobadas pelo processo, assim como suas interações.
 
 ## Análise da Situação Atual
 
 É de suma importância o estabelecimento de indicadores para monitorar o desempenho dos processos, pois o uso de dados mensurados reforça o caráter da impessoalidade e do profissionalismo, além de influenciar a cultura do resultado e do mérito.
 
 Sobre a equipe, após pontuar problemas e oportunidades do negócio, se encontra bem posicionada quanto aos próximos passos.
-Nosso principal objetivo hoje é organizar todos os níveis de processos de negócios, pensamento em uma cultura estratégica e planejada.
+Nosso principal objetivo atual é organizar todos os níveis de processos de negócios, pensamento em uma cultura estratégica e planejada.
 Contudo, nosso ambiente, com o estudo necessário, evitaremos cometer erros futuros de planejamento, evitando que posteriormente partes interessadas (nossos potenciais clientes) não nos tragam rejeição.
-Concluindo que nosso projeto segue bem gerenciado e estudado para dar os próximos passos de desenvolvimento.
+Concluindo que nosso projeto segue bem gerenciado e estudado para dar os próximos passos, avançando com o desenvolvimento já inciado, aplicando as mudanças dos processos de negócios verificados na situação atual, assim como descrito na subseção de processos aprimorados.
+
+Fizemos a elaboração e a gestão dos indicadores de desempenho, também chamados de KPIs (Key Performance Indicators), visando tomar decisões direcionadas para o acompanhamento da evolução dos resultados definidos nas fases estratégicas.
+
+-> `Indicadores de produtividade`: Em avaliação do rendimento e eficiência de cada envolvido e a produtividade em relação às entregas. O envolvimento se dá por conta feita por hora trabalhada e por hora/homem. A equipe tem uma média de 30 minutos diários de engajamento.
+
+-> `Indicadores de qualidade`: Compreendem qualquer desvio ou não-conformidade ocorrida durante um processo. Devido ao fato da não implantação do sistema, não é possível averiguar a quantidade de possíveis reclamações que o serviço receberia durante um certo período.
+
+-> `Indicadores de capacidade`: Mensuram a capacidade de resposta de um processo. No caso seria a capacidade de processos simultãneos e de armazemaneto por cliente. Este indicador ainda se encontrra em fase de estudo, tendo um prognóstico estimado de 15GB de armazemamento por conta premium habilitada.
+
+-> `Indicadores estratégicos`: Com esses indicadores de desempenho, é possível descobrir onde está a empresa em relação aos objetivos que foram estabelecidos anteriormente. Levando em conta esta definição para este indicador, relatamos que na situação atual, nos encontramos em fase de estruturação e análise constante do mercado. O cenário atual condiz com o planejamento.
+
+-> `Indicadores de lucratividade`: São compostos pela relação percentual entre o lucro e as vendas totais da empresa. Pelo fato da não entrada no mercado ainda e não ter sido feito investimento financeiro até o momento, este não é posível ser avaliado na situação atual.
+
+-> `Indicadores de rentabilidade`: É a relação percentual entre o lucro e o investimento feito na empresa. Assim como relatado no indicador anterior, este indicador necessitará ser perlongado até fases mais avnaçadas do negócio.
+
+-> `Indicadores de competitividade`: Medem a relação da empresa com a concorrência. Em estudos inícias, foi verificado que existe baixaa concorrência para os serviços prestados pelo nosso sistema. Tendo e vista que este indicador de desempenho mostra a fatia de mercado pertencente a empresa, iniciamos com 0%, pelo fato de estarmos em etapas de planejamento e desenvolvimento. Futuramento dividiemos o volume de nossas vendas pelo volume de vendas total do mercado.
+
+-> `Indicadores de valor`: Relação entre o valor percebido pelo cliente, portanto, o quanto ele está disposto a pagar, por exemplo, e o valor efetivamente despendido pela empresa com custos e despesas com a produção e entrega do produto. Não temos dados para o cálculo deste indicador no momento, mas será atualizado a medida que o projeto avance.
+
+-> `Indicadores de turnover`: Relação entre o tempo médio de permanência de cada colaborador na empresa. O projeto está ativo há dois meses, foram quatro envolvidos, sendo que uma pessoa envolvida deixou o projeto, restando  apenas três. Cálculo do índice de turnover: (3 + 1) / 2 = 2. Taxa de turnover: 2 / 4 = 0,5 * 100 = 50%.
 
 ## Descrição dos Processos Aprimorados
 
@@ -469,6 +482,8 @@ Concluindo que nosso projeto segue bem gerenciado e estudado para dar os próxim
 Este é o fluxograma da modelagem do processo de negócio, ele explica o cadastro de um documentto no sistema, assim como a assinatura, as notificações e validações que são feitas em todo o processo, ele mostra como o sistema faz a intermediação entre as partes envolvidas no negócio.  
 
 ![Fluxograma](images/fluxograma.png)
+
+Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema, tanto para quem criou o documento, quanto para quem precisa acessá-lo. Foi acrescentada aindaa a confirmação de conformidade do criador do documento, para então ocorrer a finalização do processo após a assinatura necessária. 
 
 ![Fluxograma](images/Fluxograma_Assinu_Atual.png)
 

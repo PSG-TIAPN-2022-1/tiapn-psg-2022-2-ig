@@ -15,7 +15,7 @@ align-items: center;
 justify-content: center;
 padding-top: 40px;
 padding-bottom: 40px;
-background-color: #001733;
+background-color: #ededed;
 }
 
 .form-signin {
@@ -52,28 +52,19 @@ font-style: normal;
 font-weight: 400;
 /* font-size: 26px; */
 line-height: 31px;
-background-color: #367599;
+background-color: #FFBE18;
 border-radius: 20px;
 color: #EDFEFF;
 }.btn-entrar:hover{
 transition: 0.1s;
-background-color: #367599 !important;
+background-color: #FFBE18 !important;
 color: #EDFEFF !important;
 }
+
 .input-cad{
-border-radius: 20px !important; background-color: transparent; border: 3px solid #367599;
+border-radius: 10px !important; background-color: transparent; border: 2px solid #367599;
 }
 .tit-input-cad{
 font-weight: 400;
 color: #367599;
-}
-
-@font-face {
-font-family: Assinatura;
-src: url('<?= $link;?>/fonts/assinatura.ttf')format('opentype');
-}
-.assinatura-texto{
-font-family: 'Assinatura',sans-serif;
-font-size: 40px;
-text-decoration: underline;
 }

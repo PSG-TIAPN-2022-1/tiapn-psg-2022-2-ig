@@ -45,6 +45,10 @@ Os membros do grupo são:
   - [Análise da Situação Atual](#análise-da-situação-atual)
   - [Descrição dos Processos Aprimorados](#descrição-dos-processos-aprimorados)
 - [**############## SPRINT 2 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
+- [Modelagem de Dados](#modelagem-de-dados)
+  - [Diagrama de Entidade-Relacionamento](#diagrama-de-entidade-relacionamento)
+  - [Modelo Relacional](#modelo-relacional)
+- [**############## SPRINT 3 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -491,7 +495,7 @@ Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema
 
 # **############## SPRINT 2 ACABA AQUI #############**
 
-# Modelagem de dados
+# Modelagem de Dados
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 

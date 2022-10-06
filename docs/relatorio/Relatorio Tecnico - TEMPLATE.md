@@ -214,7 +214,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O sistema deve ser responsivo para rodar em dispositivos móveis   | MÉDIA     | 
 |RNF-003| O sistema deve ser multiplataforma em desktop                     | MÉDIA     | 
 |RNF-004| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-|RNF-005| Possibilidade de criação de documentos em modo offline             | BAIXA     | 
+|RNF-005| Possibilidade de criação de documentos em modo offline            | BAIXA     | 
 |RNF-006| Canal de reclamações, sugestões e ajuda sobre o sistema           | BAIXA     | 
 |RNF-007| Opções de acessibilidade para o usuário                           | BAIXA     | 
 |RNF-008| Personalização de template                                        | BAIXA     | 
@@ -490,6 +490,20 @@ Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema
 ![Fluxograma](images/Fluxograma_Assinu_Atual.png)
 
 # **############## SPRINT 2 ACABA AQUI #############**
+
+# Modelagem de dados
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+## Diagrama de Entidade-Relacionamento
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+## Modelo Relacional
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+# **############## SPRINT 3 ACABA AQUI #############**
 
 # Projeto da Solução
 

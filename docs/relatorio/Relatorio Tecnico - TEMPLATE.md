@@ -503,6 +503,8 @@ Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+![Assinü](images/assinu.png)
+
 ## Modelo Relacional
 
 ......  COLOQUE AQUI O SEU TEXTO ......

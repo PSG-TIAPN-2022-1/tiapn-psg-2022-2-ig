@@ -499,17 +499,19 @@ Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
+Desenvolvemos o Diagrama de Entidade-Relacionamento no brModelo v3.3, o Modelo Relacional foi desenvolvido no MySQL Workbench 8.0, assim como mostrado nos dois subtópicos a seguir.
+
 ## Diagrama de Entidade-Relacionamento
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-![Assinü](images/Assinu_DER.png)
+![Assinü Diagrama de Entidade-Relacionamento](images/Assinu_DER.png)
 
 ## Modelo Relacional
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-![Assinü](images/Assinu_EM.png)
+![Assinü Modelo Relacional](images/Assinu_MR.png)
 
 # **############## SPRINT 3 ACABA AQUI #############**
 

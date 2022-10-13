@@ -497,17 +497,19 @@ Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema
 
 # Modelagem de Dados
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
 ## Diagrama de Entidade-Relacionamento
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-![Assinü](images/assinu.png)
+![Assinü](images/Assinu_MR.png)
 
 ## Modelo Relacional
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
+
+![Assinü](images/Assinu_DER.png)
 
 # **############## SPRINT 3 ACABA AQUI #############**
 

@@ -503,13 +503,13 @@ Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-![Assinü](images/Assinu_MR.png)
+![Assinü](images/Assinu_DER.png)
 
 ## Modelo Relacional
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-![Assinü](images/Assinu_DER.png)
+![Assinü](images/Assinu_EM.png)
 
 # **############## SPRINT 3 ACABA AQUI #############**
 

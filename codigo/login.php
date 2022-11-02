@@ -24,9 +24,9 @@ if(isset($_SESSION['logado'])){ header("Location:index"); exit(); }
 
 <?php 
 if(isset($_POST['entrar'])){
-$conta_usuarios = $pdo->query("SELECT * FROM painel_usuarios WHERE usr_email = '".$_POST['email']."' AND BINARY usr_senha = '".$_POST['senha']."' LIMIT 1");
+$conta_usuarios = $pdo->query("SELECT * FROM painel_usuarios WHERE usr_email = '".$_POST['email']."' AND BINARY usr_senha = '".md5($_POST['senha'])."' LIMIT 1");
 $conta_usuarios_tot = $conta_usuarios->rowCount();
-if(!empty($_POST['email']) || !empty($_POST['senha'])){
+if(!empty($_POST['email']) || !empty(md5($_POST['senha']))){
 if($conta_usuarios_tot > 0){
 echo "<span class='badge bg-success mb-3'>Sucesso! Acessando painel...</span>";
 $_SESSION['logado'] = true;
@@ -46,6 +46,11 @@ echo "<span class='badge bg-danger mb-3'>Erro</span>";
 <input type="password" class="form-control input-cad mt-3" name="senha" required>
 <button class="btn btn-entrar col-xl-12 mt-3" name="entrar" type="submit">Entrar</button>
 <a href="esqueci-senha"><button style="border-radius: 20px;" class="btn btn-secondary btn-sm col-xl-12 mt-3" name="esqueci_senha" type="button">Esqueci minha senha</button></a>
+<hr style="color: white;">
+<a href="cadastrar">
+<button style="border-radius: 20px;" class="btn btn-success btn-sm col-xl-12 mt-1" name="cadastrar" type="button"><i class="fas fa-plus"></i> 
+<strong>Criar conta</strong></button></a>
+
 </form>
 </body>
 </html>

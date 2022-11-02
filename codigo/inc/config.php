@@ -1,6 +1,6 @@
 <?php 
 
-$link = "http://localhost/tiapn-psg-2022-2-ig/codigo/";
+$link = "http://localhost:6060/tiapn-psg-2022-2-ig/codigo/";
 
 /*
 Senha BD

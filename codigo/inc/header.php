@@ -9,6 +9,7 @@ include 'inc/session.php';
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Início</title>
 <link href="<?= $link;?>/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://kit.fontawesome.com/06c06c3fc2.js" crossorigin="anonymous"></script>
 <style>
 body{
 background-color: #001733;    
@@ -43,24 +44,39 @@ color: #BEF9EE;
 font-family: 'Katibeh';
 font-style: normal;
 font-weight: 800;
-font-size: 23px;
+font-size: 20px;
 line-height: 36px;
 color: #FFBE18 !important;
 }
 
 .input-pesquisa{
 /* position: absolute; */
-width: 1251px;
+/* width: 1251px; */
 height: 68px;
 /*left: 94px;
 top: 167px; */
-color: white;
+color: #BEF9EE;
 border: 2px solid #FFBE18;
 border-radius: 16px;
 background: transparent;
 }
 
-
+.btn-mid{
+border-radius: 16px;
+ background-color: transparent !important;
+ font-family: 'Katibeh';
+font-style: normal;
+/* font-weight: 800; */
+font-size: 1.3rem;
+}
+.modal-dia{
+background-color: #001733 !important;
+border-radius: 30px;
+font-family: 'Katibeh' !important;
+}
+.cor-azu{
+    color: #BEF9EE;
+}
 </style>
 </head>
 

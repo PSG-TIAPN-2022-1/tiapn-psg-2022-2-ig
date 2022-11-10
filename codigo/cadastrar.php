@@ -34,6 +34,7 @@ $assinatura = md5($string);
 
 if(!empty($cpf) and $TUser < 1){
 $insere = $pdo->query("INSERT INTO painel_usuarios VALUES (null,'".$nome."','".$email."','".$senha."','".$cpf."','ativo','".$assinatura."')");
+mkdir(__DIR__.'/uploads/'.$cpf.'/', 0777, true);
 echo "<button class='btn btn-success'>Cadastro realizado!</button>";
 }else if($TUser > 0){
 echo "<button class='btn btn-warning'>CPF já existente no sistema.</button>";

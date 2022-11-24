@@ -526,7 +526,7 @@ Tendo em vista a necessidade de agilidade no gerenciamento e assinaturas de docu
 
 A seguir é mostrado uma tabela que traz um relatório do desenvolvimento do sistema, exibindo as funções atribuídas no projeto, assim como recursos utilizados.
 
-| Ambiente                      | Plataforma                                           |
+|Processos                      | Responsáveis                                         |
 |-------------------------------|------------------------------------------------------|
 |Processo de Design Thinking    | Miro                                                 |
 |Repositório de código          | GitHub                                               |

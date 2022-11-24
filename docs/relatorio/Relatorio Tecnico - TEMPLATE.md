@@ -520,10 +520,28 @@ Desenvolvemos o Diagrama de Entidade-Relacionamento no brModelo v3.3, o Modelo R
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
+O sistema Assinü é voltado para empresas e pessoas jurídicas que trabalham com inúmeros documentos, o que na maioria das vezes se torna algo difícil de gerenciar. Foi planejado para ser um grande facilitador em assinaturas digitais.
 
+Tendo em vista a necessidade de agilidade no gerenciamento e assinaturas de documentos, sendo um mercado em expansão, o sistema visa tapar brechas deixadas por serviços semelhantes existentes e disponíveis atualmente.
 
+A seguir é mostrado uma tabela que traz um relatório do desenvolvimento do sistema, exibindo as funções atribuídas no projeto, assim como recursos utilizados.
 
-
+| Ambiente                      | Plataforma                                           |
+|-------------------------------|------------------------------------------------------|
+|Processo de Design Thinking    | Miro                                                 |
+|Repositório de código          | GitHub                                               |
+|Hospedagem do site             | GoDaddy                                              |
+|Protótipo Interativo           | Figma                                                |
+|Editor de código               | VSCode                                               |
+|Ferramenta de comunicação      | Teams                                                |
+|Ferramenta de diagramação      | draw.io                                              |
+|Técnicas de Programação        | PHP, JavaScript, HTML5, CSS3 e MySQL                 |
+|Product Owner                  | Davi Perrier Cabral                                  |
+|Full Stack Developer           | Davi Perrier Cabral                                  |
+|DBA                            | Davi Perrier Cabral e Gabriel Gomes de Oliveira      |
+|Designer Gráfico               | Gabriel Gomes de Oliveira                            |
+|Front-end Developer            | Gabriel Gomes de Oliveira e Douglas Barbosa da Silva |
+|Scrum Master                   | Douglas Barbosa da Silva                             |
 
 # Projeto da Solução
 

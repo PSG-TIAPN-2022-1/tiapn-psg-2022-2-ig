@@ -40,15 +40,16 @@ Os membros do grupo são:
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
+<!-- - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-) -->
 - [Modelagem do Processo de Negócio](#Modelagem-do-processo-de-negócio)
   - [Análise da Situação Atual](#análise-da-situação-atual)
   - [Descrição dos Processos Aprimorados](#descrição-dos-processos-aprimorados)
-- [**############## SPRINT 2 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
+<!-- - [**############## SPRINT 2 ACABA AQUI #############**](#-sprint-1-acaba-aqui-) -->
 - [Modelagem de Dados](#modelagem-de-dados)
   - [Diagrama de Entidade-Relacionamento](#diagrama-de-entidade-relacionamento)
   - [Modelo Relacional](#modelo-relacional)
-- [**############## SPRINT 3 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
+<!-- - [**############## SPRINT 3 ACABA AQUI #############**](#-sprint-1-acaba-aqui-) -->
+- [Relatórios analíticos](#relatórios-analíticos)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -442,7 +443,7 @@ e quais funcionalidades necessitam de atenção. Visando assim a organização d
 -> Índice de rotatividade: 
 -> Tempo médio de aquisição: -->
 
-# **############## SPRINT 1 ACABA AQUI #############**
+<!-- # **############## SPRINT 1 ACABA AQUI #############** -->
 
 # Modelagem do Processo de Negócio
 
@@ -493,7 +494,7 @@ Fluxograma atualizado mostrando mais notificações de eventos dentro do sistema
 
 ![Fluxograma](images/Fluxograma_Assinu_Atual.png)
 
-# **############## SPRINT 2 ACABA AQUI #############**
+<!-- # **############## SPRINT 2 ACABA AQUI #############** -->
 
 # Modelagem de Dados
 
@@ -513,11 +514,20 @@ Desenvolvemos o Diagrama de Entidade-Relacionamento no brModelo v3.3, o Modelo R
 
 ![Assinü Modelo Relacional](images/Assinu_MR.png)
 
-# **############## SPRINT 3 ACABA AQUI #############**
+<!-- # **############## SPRINT 3 ACABA AQUI #############** -->
+
+# Relatórios analíticos
+
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
+
+
+
+
+
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
 ## Tecnologias Utilizadas
 

@@ -543,6 +543,13 @@ A seguir é mostrado uma tabela que traz um relatório do desenvolvimento do sis
 |Front-end Developer            | Gabriel Gomes de Oliveira e Douglas Barbosa da Silva |
 |Scrum Master                   | Douglas Barbosa da Silva                             |
 
+Este é um relatório analítico parcial, devido ao fato de ainda necessitar de testes finais após a conclusão do sistema, pois ainda encontra-se em fase final de desenvolvimento. O andamento está dentro do esperado com grande parte do back-end e banco de dados concluídos, tendo uma maior parte de desenvolvimento restanto para o front-end, sendo este o foco da próxima semana de trabalho, junto aos testes e apresentação que serão entregues.
+
+
+
+
+
+
 # Projeto da Solução
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->

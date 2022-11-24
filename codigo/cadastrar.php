@@ -32,10 +32,15 @@ $TUser = $user->rowCount();
 $string = "assinatura";
 $assinatura = md5($string);
 
+$data = date('Y-m-d H:i');
+
+
 if(!empty($cpf) and $TUser < 1){
-$insere = $pdo->query("INSERT INTO painel_usuarios VALUES (null,'".$nome."','".$email."','".$senha."','".$cpf."','ativo','".$assinatura."')");
-mkdir(__DIR__.'/uploads/'.$cpf.'/', 0777, true);
+$insere = $pdo->query("INSERT INTO painel_usuarios VALUES 
+(null,'".$nome."','".$email."','".$senha."','".$cpf."','aguardando','".$assinatura."','".$data."')");
+//mkdir(__DIR__.'/uploads/'.$cpf.'/', 0777, true);
 echo "<button class='btn btn-success'>Cadastro realizado!</button>";
+echo '<meta http-equiv="refresh" content="0; url=aguardando?cpf='.$cpf.'" />';
 }else if($TUser > 0){
 echo "<button class='btn btn-warning'>CPF já existente no sistema.</button>";
 }else{
@@ -52,7 +57,7 @@ echo "<button class='btn btn-danger'>Erro ao cadastrar.</button>";
 <p class="tit-input-cad">Qual seu nome?</p>
 <input type="text" class="form-control input-cad" name="nome" placeholder="" required>
 <p class="tit-input-cad mt-2">Digite seu CPF:</p>
-<input type="text" id="cpf" maxlength="13" class="form-control input-cad" name="cpf"  placeholder="" required>
+<input type="text" id="cpf" maxlength="11" class="form-control input-cad" name="cpf"  placeholder="" required>
 <p class="tit-input-cad mt-2">Qual é o seu e-mail?</p>
 <input type="email" class="form-control input-cad" name="email" placeholder="" required>
 <label class="mt-3 tit-input-cad">Digite uma senha:</label>

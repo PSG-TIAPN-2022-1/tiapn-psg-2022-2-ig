@@ -109,7 +109,14 @@ font-family: 'Katibeh' !important;
 </svg>
 
 
-</a></li>
+<a href="<?= $link;?>/index#deslogar">
+Sair
+</a>
+</a>
+
+
+
+</li>
 </ul>
 </div>
 </div>

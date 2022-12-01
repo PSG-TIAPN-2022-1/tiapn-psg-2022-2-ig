@@ -600,14 +600,22 @@ um dos pontos racos é não possuir a listagem de usuários cadastrados de manei
 fazeendo com que não se tenha um retorno de sucesso do cadastro de usuário.
 Para melhoria é sugerido a inclusão de uma tela que informe os usuários cadastrados
 
+## Conclusão
+
+O grupo chegou à conclusão que atingimos nosso objetivo, pois precisaríamos estabelecer prazos mais longos para conseguirmos ampliar e inserir mais funcionalidades ao sistema, contudo, como estabelecemos metas mais tangíveis, o que foi proposto, foi atingido.
+Inicialmente, propomos o desenvolvimento de uma ferramenta que agilizasse o processo de assinatura de documentos de forma online, sendo possível analisar, criar e validar essas documentações.
+Apesar dos conhecimentos acadêmicos, profissionais e todo o conhecimento tácito que dispomos, foi necessário um planejamento, organização e divisão de tarefas para seguir com o projeto em frente. As orientações passadas regularmente pelo professor, nos deu um norte para elaborarmos a documentação e otimizarmos o desenvolvimento.
+Não obstante, o projeto estimulou o desenvolvimento também de competências relacionais, aproximando os integrantes do grupo e atiçando debates ricos e variados, necessitando que todos compreendessem o lado um do outro e entrassem em um consenso.
+Portanto, o trabalho interdisciplinar foi essencial para aproximar os integrantes do grupo de um ambiente real de trabalho, com prazos de entrega, discussões em grupo, manejo de software em âmbito coletivo e o desenvolvimento pessoal, agregando experiência e refinamento para cada integrante do grupo no desenvolvimento do Assinü.
+Para trabalhos futuros, o grupo pensa em ampliar o armazenamento de documentos, com uma ampliação da capacidade do servidor, a criação de contas free e premium, além da edição online de documentos de forma simultânea e a inserção de mais serviços e ideias que constam do backlog para a plataforma.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+<!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
+<!-- > Inclua todas as referências (livros, artigos, sites, etc) utilizados -->
+<!-- > no desenvolvimento do trabalho. -->
+<!-- >  -->
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)

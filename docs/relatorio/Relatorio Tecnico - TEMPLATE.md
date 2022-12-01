@@ -578,8 +578,6 @@ para banco de dados foi utilizado o Mysql
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 **Usuário comum:**
 
 > ![passo 1]("images/telas - fluxo de execução/login.png")

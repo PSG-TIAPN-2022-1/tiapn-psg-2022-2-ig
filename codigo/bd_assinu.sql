@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Tempo de geração: 02-Nov-2022 às 22:59
+-- Tempo de geração: 01-Dez-2022 às 14:17
 -- Versão do servidor: 5.7.36
 -- versão do PHP: 7.4.26
 
@@ -37,7 +37,6 @@ CREATE TABLE IF NOT EXISTS `painel_documentos` (
   `usr_nomerepresentado` varchar(200) NOT NULL,
   `usr_emailrepresentado` varchar(200) NOT NULL,
   `usr_documento` varchar(200) NOT NULL,
-  `usr_tipodocumento` varchar(200) NOT NULL,
   `usr_data` date NOT NULL,
   `usr_status` varchar(100) NOT NULL,
   PRIMARY KEY (`usr_id`)
@@ -64,6 +63,22 @@ CREATE TABLE IF NOT EXISTS `painel_documentos_rel` (
 -- --------------------------------------------------------
 
 --
+-- Estrutura da tabela `painel_uploads`
+--
+
+DROP TABLE IF EXISTS `painel_uploads`;
+CREATE TABLE IF NOT EXISTS `painel_uploads` (
+  `usr_id` int(11) NOT NULL AUTO_INCREMENT,
+  `usr_link` varchar(200) NOT NULL,
+  `usr_cpf` varchar(30) NOT NULL,
+  `usr_cpf_ref` varchar(30) NOT NULL,
+  `usr_status` varchar(100) NOT NULL,
+  PRIMARY KEY (`usr_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+--
 -- Estrutura da tabela `painel_usuarios`
 --
 
@@ -76,6 +91,7 @@ CREATE TABLE IF NOT EXISTS `painel_usuarios` (
   `usr_cpf` varchar(300) NOT NULL,
   `usr_status` varchar(100) NOT NULL,
   `usr_assinatura` varchar(100) NOT NULL,
+  `usr_data` datetime NOT NULL,
   PRIMARY KEY (`usr_id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 
@@ -83,8 +99,8 @@ CREATE TABLE IF NOT EXISTS `painel_usuarios` (
 -- Extraindo dados da tabela `painel_usuarios`
 --
 
-INSERT INTO `painel_usuarios` (`usr_id`, `usr_nome`, `usr_email`, `usr_senha`, `usr_cpf`, `usr_status`, `usr_assinatura`) VALUES
-(1, 'Davi Perrier', 'davi@assinu.tk', '200820e3227815ed1756a6b531e7e0d2', '143.528.276-06', 'ativo', 'decc1eab6d0751fcb2d8e41a2ffeb55a');
+INSERT INTO `painel_usuarios` (`usr_id`, `usr_nome`, `usr_email`, `usr_senha`, `usr_cpf`, `usr_status`, `usr_assinatura`, `usr_data`) VALUES
+(1, 'Davi Perrier', 'davi@assinu.tk', '200820e3227815ed1756a6b531e7e0d2', '143.528.276-06', 'ativo', 'decc1eab6d0751fcb2d8e41a2ffeb55a', '2022-11-24 11:11:00');
 
 -- --------------------------------------------------------
 
@@ -101,14 +117,7 @@ CREATE TABLE IF NOT EXISTS `painel_usuarios_rel` (
   `usr_ramoempresa` varchar(200) NOT NULL,
   `usr_tamanhoempresa` varchar(200) NOT NULL,
   PRIMARY KEY (`usr_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
-
---
--- Extraindo dados da tabela `painel_usuarios_rel`
---
-
-INSERT INTO `painel_usuarios_rel` (`usr_id`, `usr_cpf`, `usr_pessoajuridica`, `usr_nomeempresa`, `usr_ramoempresa`, `usr_tamanhoempresa`) VALUES
-(1, '14352827606', 'sim', 'Fidelizar', 'Marketing', 'Pequeno');
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

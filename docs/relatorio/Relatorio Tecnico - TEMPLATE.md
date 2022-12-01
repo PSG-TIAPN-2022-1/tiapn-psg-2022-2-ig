@@ -580,7 +580,7 @@ para banco de dados foi utilizado o Mysql
 
 **Usuário comum:**
 
-> ![passo 1]("images/telas - fluxo de execução/login.png")
+> ![passo 1](images/telas - fluxo de execução/login.png)
 > ![passo 2]("images/telas - fluxo de execução/lista de contratos em aberto.png")
 > ![passo 3]("images/telas - fluxo de execução/cadastro documento.png")
 > ![passo 2]("images/telas - fluxo de execução/lista de contratos em aberto.png")

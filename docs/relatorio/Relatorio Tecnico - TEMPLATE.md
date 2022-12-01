@@ -578,12 +578,12 @@ para banco de dados foi utilizado o Mysql
 
 # Avaliação da Aplicação
 
-**Usuário comum:**
+Usuário comum:
 
-> ![passo 1](images/telas - fluxo de execução/login.png)
-> ![passo 2]("images/telas - fluxo de execução/lista de contratos em aberto.png")
-> ![passo 3]("images/telas - fluxo de execução/cadastro documento.png")
-> ![passo 2]("images/telas - fluxo de execução/lista de contratos em aberto.png")
+> ![passo 1](images/telas-fluxo-de-execução/login.png)
+> ![passo 2](images/telas-fluxo-de-execução/lista_de_contratos_em_aberto.png)
+> ![passo 3](images/telas-fluxo-de-execução/cadastro_documento.png)
+> ![passo 2](images/telas-fluxo-de-execução/lista_de_contratos_em_aberto.png)
 
 ## Plano de Testes
 Foi criado um mapa mental para cada fluxo de execução por usuário, para descrever os passos que seriam seguidos por ele

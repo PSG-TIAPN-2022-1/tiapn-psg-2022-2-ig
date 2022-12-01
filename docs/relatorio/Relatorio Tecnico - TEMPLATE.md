@@ -556,20 +556,13 @@ Este é um relatório analítico parcial, devido ao fato de ainda necessitar de 
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para solução utilizamos as seguntes ferramentas:
+Para design, utilizamos o figma, que possibilita a integração do time na solução
+como linguagem, utilizamos php, com html + css
+em questão de IDE utilizamos o Visual Studio Code
+para hospedagem usamos a hostinger
+para banco de dados foi utilizado o Mysql
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 ## Arquitetura da solução
 
@@ -587,42 +580,31 @@ Este é um relatório analítico parcial, devido ao fato de ainda necessitar de 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+**Usuário comum:**
+
+> ![passo 1]("images/telas - fluxo de execução/login.png")
+> ![passo 2]("images/telas - fluxo de execução/lista de contratos em aberto.png")
+> ![passo 3]("images/telas - fluxo de execução/cadastro documento.png")
+> ![passo 2]("images/telas - fluxo de execução/lista de contratos em aberto.png")
 
 ## Plano de Testes
+Foi criado um mapa mental para cada fluxo de execução por usuário, para descrever os passos que seriam seguidos por ele
+fazendo com que seja um processo detalhado por paters.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+***Usuário comum***:
+Acessa tela de login > Seleciona tela de cadastro de processo > Insere dados do processo, com arquivo PDF > 
+Envia processo > Acessa  tela de Listagem de processos > Pesquisa Processo por texto
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+**Usuário administrador**:
+Acessa tela de login > Seleciona tela de cadastro de usuário de teste > Sai da plataforma > 
+Acessa a mesma com usuário de teste 
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Os teste foram realizados com sucesso, apresentando estabilidade e praticidade da mesma, 
+um dos pontos racos é não possuir a listagem de usuários cadastrados de maneira simples, 
+fazeendo com que não se tenha um retorno de sucesso do cadastro de usuário.
+Para melhoria é sugerido a inclusão de uma tela que informe os usuários cadastrados
 
 
 # Referências

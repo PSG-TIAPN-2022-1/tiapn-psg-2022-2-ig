@@ -546,10 +546,6 @@ A seguir é mostrado uma tabela que traz um relatório do desenvolvimento do sis
 Este é um relatório analítico parcial, devido ao fato de ainda necessitar de testes finais após a conclusão do sistema, pois ainda encontra-se em fase final de desenvolvimento. O andamento está dentro do esperado com grande parte do back-end e banco de dados concluídos, tendo uma maior parte de desenvolvimento restanto para o front-end, sendo este o foco da próxima semana de trabalho, junto aos testes e apresentação que serão entregues.
 
 
-
-
-
-
 # Projeto da Solução
 
 <!-- ......  COLOQUE AQUI O SEU TEXTO ...... -->
@@ -561,7 +557,7 @@ Para design, utilizamos o figma, que possibilita a integração do time na solu�
 como linguagem, utilizamos php, com html + css
 em questão de IDE utilizamos o Visual Studio Code
 para hospedagem usamos a hostinger
-para banco de dados foi utilizado o Mysql
+para banco de dados foi utilizado o Mysql.
 
 
 ## Arquitetura da solução
@@ -570,6 +566,27 @@ Para acesso da nossa solução, é necessário, via página web, acessar o site.
 Várias tabelas do banco de dados estão sendo utilizadas também, fazendo assim a conexão entre os documentos e os usuários.
 
 > ![Exemplo de Arquitetura](images/arq.png)
+
+
+## Associação de comandos SQL com os relatórios analíticos
+
+Como visto no Relatório Analítico e na seção de Modelagem de Dados, fizemos uso do MySQL para realizarmos a construção do banco de dados, após modelagem de Diagrama ER feita no BrModelo v3.3 e do Modelo Relacional desenvolvido no MySQL Workbench 8.0 CE.
+
+Fizemos uso dos seguintes comandos:
+
+-> `CREATE DATABASE`: para a criação do banco de dados ainda vazio.
+
+-> `ALTER`: no nosso caso utilizado para alterar uma tabela.
+
+-> `SELECT`: para realizar consultas aos dados que pertencem a uma determinada tabela.
+
+-> `INSERT`: para inserirmos dados a uma ou mais tabela do banco de dados.
+
+-> `UPDATE`: foi utilizado para atualizar os dados de tabela(s).
+
+-> `DELETE`: para excluir os dados de uma ou mais tabela em nosso banco de dados.
+
+Estes foram os principais comandos para criação de tabelas e bases de dados, inserção, remoção e edição de registros, além da criação de consultas.
 
 
 # Avaliação da Aplicação

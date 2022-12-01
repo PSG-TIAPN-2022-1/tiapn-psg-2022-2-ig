@@ -566,14 +566,10 @@ para banco de dados foi utilizado o Mysql
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+Para acesso da nossa solução, é necessário, via página web, acessar o site. A assinu.tk se encontra dentro de um servidor da HostGator, onde a base da mesma também foi usado no processo de criação.
+Várias tabelas do banco de dados estão sendo utilizadas também, fazendo assim a conexão entre os documentos e os usuários.
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![Exemplo de Arquitetura](images/arq.png)
 
 
 # Avaliação da Aplicação
